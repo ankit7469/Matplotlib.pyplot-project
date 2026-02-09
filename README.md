@@ -13,5 +13,5 @@ Tasks:---
 - 4.Bar chart / pie chart dikhana.
 
 Tools Used: -- 
-- Pandas → data cleaning & grouping
-- Matplotlib → visualization
+- Pandas → data cleaning & grouping.
+- Matplotlib → visualization.
