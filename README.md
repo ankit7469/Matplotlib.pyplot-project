@@ -1,7 +1,7 @@
 # Matplotlib.pyplot - project
 -----------------------------------------------------------
 # Project - Employee Demographics Dashboard (HR Analytics)
-------------------------------------------------------------
+-----------------------------------------------------------
 
 Data Needed: (User ID, Name, Sex, Date of birth, Job Title).
 
